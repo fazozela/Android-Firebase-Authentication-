@@ -48,7 +48,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:background="@android:color/holo_orange_light"
-                android:text="Cerrar secion"
+                android:text="Cerrar sesión"
                 android:textColor="@android:color/white" />
 
         </LinearLayout>
